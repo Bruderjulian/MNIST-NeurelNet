@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NetworkData
+comment1.params=model\ loss\ structure\ layers
+comment1.target=NetworkData(java.lang.String,\ java.lang.String,\ java.lang.String,\ NeuronData[][])
+comment2.params=model\ loss\ structure\ layers
+comment2.target=NetworkData(java.lang.String,\ double,\ int[],\ NeuronData[][])
+comment3.params=path
+comment3.target=NetworkData\ load(java.lang.String)
+comment4.params=path\ data
+comment4.target=void\ save(java.lang.String,\ NetworkData)
+comment5.params=arr\ sep
+comment5.target=java.lang.String\ join(int[],\ java.lang.String)
+numComments=6

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=ActivationFunctions
+comment0.text=\r\n\ Provides\ activation\ functions\ commonly\ used\ in\ neural\ networks.\r\n\ Contains\ implementations\ for\ Sigmoid\ and\ ReLU\ (Rectified\ Linear\ Unit)\r\n\ activation\ functions.\r\n
+numComments=1

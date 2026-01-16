@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Neuron
+comment1.params=weights\ bias
+comment1.target=Neuron(double[],\ double)
+comment2.params=input\ func
+comment2.target=double\ compute(double[],\ ActivationFunctions.FunctionBundle)
+comment3.params=learningRate\ delta
+comment3.target=void\ updateWeights(double,\ double)
+comment4.params=delta
+comment4.target=void\ accumulateGradients(double)
+comment5.params=learningRate\ batchSize
+comment5.target=void\ applyGradients(double,\ int)
+comment6.params=
+comment6.target=NeuronData\ save()
+comment7.params=
+comment7.target=int\ getCount()
+comment8.params=
+comment8.target=void\ zeroGrad()
+numComments=9

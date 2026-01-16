@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Button
+comment1.params=sizeX\ sizeY\ text\ actionId\ textSize
+comment1.target=Button(int,\ int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=v1\ v2
+comment3.target=int\ getCenter(int,\ int)
+numComments=4

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Network
+comment1.params=structure\ func\ learningRate
+comment1.target=Network(int[],\ ActivationFunctions.FunctionBundle,\ double)
+comment10.params=predicted\ actual
+comment10.target=double\ mse(double[],\ double[])
+comment2.params=imageObj
+comment2.target=double[]\ compute(DatasetImage)
+comment3.params=target
+comment3.target=void\ learn(double[])
+comment4.params=data\ epochs
+comment4.target=void\ train(DatasetImage[],\ int)
+comment5.params=
+comment5.target=void\ generate()
+comment6.params=
+comment6.target=int\ getCount()
+comment7.params=data
+comment7.target=void\ estimate(DatasetImage[])
+comment8.params=path
+comment8.target=void\ load(java.lang.String)
+comment9.params=path
+comment9.target=void\ save(java.lang.String)
+numComments=11

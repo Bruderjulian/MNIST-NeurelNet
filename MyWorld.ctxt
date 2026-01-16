@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment10.params=
+comment10.target=DatasetImage\ getNextImage()
+comment11.params=result\ imageObj
+comment11.target=void\ checkResult(double[],\ DatasetImage)
+comment2.params=
+comment2.target=Display\ getDisplay()
+comment3.params=
+comment3.target=Network\ getNetwork()
+comment4.params=
+comment4.target=Label\ getTimeLabel()
+comment5.params=
+comment5.target=void\ clear()
+comment6.params=
+comment6.target=void\ updateNetwork()
+comment7.params=
+comment7.target=void\ showFailedImage()
+comment8.params=
+comment8.target=void\ estimateFailed()
+comment9.params=
+comment9.target=void\ train()
+numComments=12

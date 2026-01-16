@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Layer
+comment1.params=
+comment1.target=Layer()
+comment10.params=
+comment10.target=int\ getCount()
+comment11.params=
+comment11.target=double\ genNum()
+comment2.params=input\ func
+comment2.target=double[]\ compute(double[],\ ActivationFunctions.FunctionBundle)
+comment3.params=nextLayerDeltas\ learningRate\ func
+comment3.target=double[]\ propagate(double[],\ double,\ ActivationFunctions.FunctionBundle)
+comment3.text=\r\n\ Performs\ backpropagation\ for\ the\ current\ layer\ during\ neural\ network\r\n\ training.\r\n\r\n\ Calculates\ deltas\ for\ the\ previous\ layer\ by\ propagating\ error\ gradients\r\n\ backwards,\r\n\ updates\ neuron\ weights\ using\ the\ learning\ rate\ and\ computed\ deltas,\ and\r\n\ prepares\ delta\ values\ for\ the\ previous\ layer.\r\n
+comment4.params=nextLayerDeltas\ learningRate\ func
+comment4.target=double[]\ propagateBatched(double[],\ double,\ ActivationFunctions.FunctionBundle)
+comment5.params=
+comment5.target=void\ zeroGrad()
+comment6.params=learningRate\ batchSize
+comment6.target=void\ applyGradients(double,\ int)
+comment7.params=func\ amount\ prev_amount
+comment7.target=void\ generate(ActivationFunctions.FunctionBundle,\ int,\ int)
+comment8.params=data
+comment8.target=void\ load(NeuronData[])
+comment9.params=
+comment9.target=NeuronData[]\ save()
+numComments=12

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DatasetImage
+comment1.params=label\ idx\ data
+comment1.target=DatasetImage(int,\ int,\ double[])
+comment2.params=pixelMultiplier
+comment2.target=greenfoot.GreenfootImage\ toImage(int)
+comment3.params=setType\ path\ amount
+comment3.target=void\ loadDataset(java.lang.String,\ java.lang.String,\ int)
+numComments=4

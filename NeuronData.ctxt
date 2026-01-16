@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=NeuronData
+comment1.params=weights\ bias
+comment1.target=NeuronData(double[],\ double)
+numComments=2
