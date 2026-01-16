@@ -1,6 +1,6 @@
 # MNIST-NeurelNet
 A neural network to identify handwritten numbers (mnist) - fully self written with comments
-Within a Greenfoot Project for the UI & Visualization
+Within a Greenfoot Project for the UI & Visualization but can also be used without it (some files/classes are useless then)
 
 Features: 
   - Fast Identifiing
